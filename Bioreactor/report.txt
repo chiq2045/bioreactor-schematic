@@ -1,0 +1,9 @@
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-F.Cu.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-B.Cu.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-F.Paste.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-B.Paste.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-F.SilkS.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-B.SilkS.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-F.Mask.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-B.Mask.gbr" created.
+Plot file "/home/chiq/projects/Senior Project/schematic/Bioreactor/Bioreactor/gerber/Bioreactor-Edge.Cuts.gbr" created.
